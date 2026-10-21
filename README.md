@@ -32,3 +32,6 @@ Then open http://localhost:8080
 
 ## Documentation
 Screenshots are in the [`doc`](doc) directory.
+
+## Contributor
+Dmytro Yarmoliuk 71610
